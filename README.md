@@ -1,3 +1,12 @@
+# Пример использования Google Maps
+
+Проект создан при помощи CRA(запуск "npm start"). Для примера используются координаты учебных заведений г. Москвы.
+
+# Благодарность / Gratitude
+
+Хочу выразить Большую благодарность и признательность Leigh Halliday, канал YouTube https://www.youtube.com/channel/UCWPY8W-FAZ2HdDiJp2RC_sQ. За качественное повествование и последовательность. У меня сложились плохие воспоминания о Google Maps и https://tomchentw.github.io/react-google-maps/#documentation. Читаешь Doc - все есть, начинаешь делать пользоваться документаций тяжело. Мне не зашло. Хотя сейчас доки чуть изменились, есть пошаговое объяснение для начала. Но дальше для меня мрак. Спасибо Leigh Halliday!!! https://github.com/leighhalliday
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
