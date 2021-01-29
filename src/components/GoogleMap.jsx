@@ -10,7 +10,7 @@ const Map = withScriptjs(withGoogleMap((props) => {
     .map((marker, i) => (
       <Marker
         key={'' + i}
-        icon={{ url: '/marker.png' }}
+        icon={{ url: `${process.env.PUBLIC_URL}/marker.png` }}
         onClick={() => setSelectMarker(marker)}
         position={{ lat: +marker.geometry.coordinates[1], lng: +marker.geometry.coordinates[0] }}
       />
