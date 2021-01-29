@@ -1,0 +1,3001 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6765407,
+          55.7637139
+        ]
+      },
+      "properties": {
+        "objttl": "Всероссийский научно-исследовательский институт авиационных материалов",
+        "objcode": "viam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6765407,
+          55.7637139
+        ]
+      },
+      "properties": {
+        "objttl": "Всероссийский научно-исследовательский институт авиационных материалов",
+        "objcode": "viam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.626124,
+          55.739301
+        ]
+      },
+      "properties": {
+        "objttl": "Московский инновационный университет",
+        "objcode": "miu-edu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.499354,
+          55.651978
+        ]
+      },
+      "properties": {
+        "objttl": "Служба дополнительного образования РУДН",
+        "objcode": "dporudn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.769702,
+          55.703997
+        ]
+      },
+      "properties": {
+        "objttl": "Академия стандартизации, метрологии и сертификации",
+        "objcode": "acmc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.475639,
+          55.668412
+        ]
+      },
+      "properties": {
+        "objttl": "Институт отраслевого менеджмента РАНХиГС",
+        "objcode": "iom-ranhigs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7136365,
+          55.7969042
+        ]
+      },
+      "properties": {
+        "objttl": "Институт фотографии ИПЛФ",
+        "objcode": "iplf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.646318,
+          55.819879
+        ]
+      },
+      "properties": {
+        "objttl": "Международная школа психотерапии",
+        "objcode": "MSHP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.634784,
+          55.81908
+        ]
+      },
+      "properties": {
+        "objttl": "Медицинский университет инноваций и развития",
+        "objcode": "muir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.647028,
+          55.819449
+        ]
+      },
+      "properties": {
+        "objttl": "Институт Практической Психологии и Психологического консультирования",
+        "objcode": "ippiok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6425119,
+          55.8443276
+        ]
+      },
+      "properties": {
+        "objttl": "Российский геронтологический научно-клинический центр",
+        "objcode": "rgnkc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5197021,
+          55.7000166
+        ]
+      },
+      "properties": {
+        "objttl": "Факультет политологии МГУ им. М.В.Ломоносова",
+        "objcode": "fp-mgu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6534066,
+          55.7453922
+        ]
+      },
+      "properties": {
+        "objttl": "Высшая школа `Среда обучения`",
+        "objcode": "SO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.592842,
+          55.49262
+        ]
+      },
+      "properties": {
+        "objttl": "Академия IEK GROUP",
+        "objcode": "IEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.637596,
+          55.745605
+        ]
+      },
+      "properties": {
+        "objttl": "Школа Дизайна и компьютерной графики",
+        "objcode": "1dizain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.577292,
+          55.771687
+        ]
+      },
+      "properties": {
+        "objttl": "Национальный Открытый Университет ИНТУИТ",
+        "objcode": "noui"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.652292,
+          55.721184
+        ]
+      },
+      "properties": {
+        "objttl": "Институт профессионального образования",
+        "objcode": "ipo-msk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.715956,
+          55.800575
+        ]
+      },
+      "properties": {
+        "objttl": "Военно-медицинская академия имени С.М. Кирова (филиал)",
+        "objcode": "filial-vmeda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6327013,
+          55.7612039
+        ]
+      },
+      "properties": {
+        "objttl": "Институт налогового менеджмента и экономики недвижимости",
+        "objcode": "re-hse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.647567,
+          55.725904
+        ]
+      },
+      "properties": {
+        "objttl": "Национальный институт финансовых рынков и управления",
+        "objcode": "nirfu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.584658,
+          55.785341
+        ]
+      },
+      "properties": {
+        "objttl": "Институт современных психологических технологий",
+        "objcode": "ispt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.68977,
+          55.775854
+        ]
+      },
+      "properties": {
+        "objttl": "Институт святого Фомы",
+        "objcode": "ifti-thomas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.527615,
+          55.546261
+        ]
+      },
+      "properties": {
+        "objttl": "Столичная Академия малого бизнеса (институт)",
+        "objcode": "stolamb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.617761,
+          55.755773
+        ]
+      },
+      "properties": {
+        "objttl": "Московский институт национальных и региональных отношений",
+        "objcode": "minro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.608724,
+          55.756437
+        ]
+      },
+      "properties": {
+        "objttl": "АНО ДПО `Современная научно-технологическая академия`",
+        "objcode": "snta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.456864,
+          55.815231
+        ]
+      },
+      "properties": {
+        "objttl": "АНО ДПО «Мосмед»",
+        "objcode": "mosmed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.745052,
+          55.671696
+        ]
+      },
+      "properties": {
+        "objttl": "Московский исламский институт",
+        "objcode": "miu-a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.792798,
+          55.744004
+        ]
+      },
+      "properties": {
+        "objttl": "Московский финансовый колледж - филиал Государственного университета Министерства финансов Российской Федерации",
+        "objcode": "mfk1941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.677867,
+          55.732595
+        ]
+      },
+      "properties": {
+        "objttl": "Библейско-богословский институт святого апостола Андрея",
+        "objcode": "standrews"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.443676,
+          55.846406
+        ]
+      },
+      "properties": {
+        "objttl": "Институт туризма и гостепреиимства (г. Москва) (филиал) Российского государственного университета туризма и сервиса",
+        "objcode": "is-rgutis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.503217,
+          55.77758
+        ]
+      },
+      "properties": {
+        "objttl": "Налоговый институт РосНОУ",
+        "objcode": "nalog-i"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.659344,
+          55.736899
+        ]
+      },
+      "properties": {
+        "objttl": "Московская Высшая Школа Экономики - финансовый институт",
+        "objcode": "mos-econ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.527184,
+          55.809934
+        ]
+      },
+      "properties": {
+        "objttl": "Российская открытая академия транспорта",
+        "objcode": "roat-miit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.607763,
+          55.6166
+        ]
+      },
+      "properties": {
+        "objttl": "Экономико-энергетический институт",
+        "objcode": "ecopi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.649867,
+          55.67692
+        ]
+      },
+      "properties": {
+        "objttl": "Московский институт государственного управления и права",
+        "objcode": "academprava"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.601519,
+          55.820991
+        ]
+      },
+      "properties": {
+        "objttl": "Санкт-Петербургский государственный университет кино и телевидения - Московский киновидеоинститут",
+        "objcode": "gukit-moskva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.600945,
+          55.828865
+        ]
+      },
+      "properties": {
+        "objttl": "Институт Театрального Искусства",
+        "objcode": "mos-iti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.581146,
+          55.737801
+        ]
+      },
+      "properties": {
+        "objttl": "Военный учебно-научный центр Сухопутных войск `Общевойсковая академия Вооруженных Сил Российской Федерации`",
+        "objcode": "gkutssvoa-c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.539644,
+          55.799978
+        ]
+      },
+      "properties": {
+        "objttl": "МОСКОВСКИЙ ЦЕНТР РАЗВИТИЯ КАДРОВОГО ПОТЕНЦИАЛА ОБРАЗОВАНИЯ",
+        "objcode": "mioo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.594279,
+          55.767134
+        ]
+      },
+      "properties": {
+        "objttl": "Военный университет",
+        "objcode": "vumo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.821158,
+          55.792372
+        ]
+      },
+      "properties": {
+        "objttl": "Институт экономики и управления в промышленности",
+        "objcode": "ieso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.604744,
+          55.662506
+        ]
+      },
+      "properties": {
+        "objttl": "Университет прокуратуры Российской Федерации",
+        "objcode": "agprf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.474201,
+          55.649799
+        ]
+      },
+      "properties": {
+        "objttl": "Военная академия Генерального штаба Вооруженных Сил Российской Федерации",
+        "objcode": "mil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.773394,
+          55.681742
+        ]
+      },
+      "properties": {
+        "objttl": "Институт управления и права",
+        "objcode": "iup"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.652059,
+          55.756812
+        ]
+      },
+      "properties": {
+        "objttl": "ТУРО",
+        "objcode": "touro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.505391,
+          55.648702
+        ]
+      },
+      "properties": {
+        "objttl": "Институт повышения квалификации и переподготовки кадров РУДН",
+        "objcode": "ippk-rudn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.608041,
+          55.787832
+        ]
+      },
+      "properties": {
+        "objttl": "Московский государственный университет путей сообщения императора Николая II - Институт управления и информационных технологий",
+        "objcode": "imiit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.739851,
+          55.624652
+        ]
+      },
+      "properties": {
+        "objttl": "Московский филиал Высшей школы народных искусств (института)",
+        "objcode": "itpi-mf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.729664,
+          55.787685
+        ]
+      },
+      "properties": {
+        "objttl": "Институт экономики и культуры (г. Москва)",
+        "objcode": "ieac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.478684,
+          55.667345
+        ]
+      },
+      "properties": {
+        "objttl": "ВЫСШАЯ ШКОЛА КОРПОРАТИВНОГО УПРАВЛЕНИЯ - РАНХиГС",
+        "objcode": "emba-ranepa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.50204,
+          55.82357
+        ]
+      },
+      "properties": {
+        "objttl": "Московский институт предпринимательства и права",
+        "objcode": "mipp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.590407,
+          55.751715
+        ]
+      },
+      "properties": {
+        "objttl": "Театральный институт имени Бориса Щукина при Государственном академическом театре имени Евг. Вахтангова",
+        "objcode": "htvs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.736554,
+          55.702815
+        ]
+      },
+      "properties": {
+        "objttl": "Институт Мировой экономики и информатизации",
+        "objcode": "nouimei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.670097,
+          55.751518
+        ]
+      },
+      "properties": {
+        "objttl": "Московская школа кино",
+        "objcode": "moscowfilmschool"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.749472,
+          55.790787
+        ]
+      },
+      "properties": {
+        "objttl": "Российская международная академия туризма - Московский филиал",
+        "objcode": "rmat-moskva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.204186,
+          56.028073
+        ]
+      },
+      "properties": {
+        "objttl": "Санкт-Петербургский Гуманитарный университет Профсоюзов - Московский областной филиал",
+        "objcode": "mhpi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.756111,
+          55.792392
+        ]
+      },
+      "properties": {
+        "objttl": "Институт искусства реставрации",
+        "objcode": "resvuz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.505067,
+          55.818903
+        ]
+      },
+      "properties": {
+        "objttl": "Академия управления МВД РФ",
+        "objcode": "amvd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.635575,
+          55.76876
+        ]
+      },
+      "properties": {
+        "objttl": "Высшая школа `Современное образование`",
+        "objcode": "so-school"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.595393,
+          55.735414
+        ]
+      },
+      "properties": {
+        "objttl": "Дипломатическая академия МИД РФ",
+        "objcode": "dipacademy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.830904,
+          55.707801
+        ]
+      },
+      "properties": {
+        "objttl": "Институт непрерывного образования",
+        "objcode": "in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.646399,
+          55.801055
+        ]
+      },
+      "properties": {
+        "objttl": "Гуманитарный институт",
+        "objcode": "huminst"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.63729,
+          55.835043
+        ]
+      },
+      "properties": {
+        "objttl": "Всероссийский государственный университет кинематографии имени С.А. Герасимова",
+        "objcode": "vgik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.606487,
+          55.857205
+        ]
+      },
+      "properties": {
+        "objttl": "Еврейский университет",
+        "objcode": "iji"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.534523,
+          55.682493
+        ]
+      },
+      "properties": {
+        "objttl": "Институт государственного администрирования",
+        "objcode": "iga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.711509,
+          55.781291
+        ]
+      },
+      "properties": {
+        "objttl": "Московский политехнический университет",
+        "objcode": "mospolytech"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.478684,
+          55.667345
+        ]
+      },
+      "properties": {
+        "objttl": "Международный институт МШСЭН РАНХиГС",
+        "objcode": "mss-rane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.609901,
+          55.727136
+        ]
+      },
+      "properties": {
+        "objttl": "Институт мировых цивилизаций",
+        "objcode": "imc-i"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.821158,
+          55.792372
+        ]
+      },
+      "properties": {
+        "objttl": "Институт экономики и управления в промышленности",
+        "objcode": "rosinstitut"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.661302,
+          55.752298
+        ]
+      },
+      "properties": {
+        "objttl": "Российская академия адвокатуры и нотариата",
+        "objcode": "raa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.542222,
+          55.775965
+        ]
+      },
+      "properties": {
+        "objttl": "Институт кино и телевидения (ГИТР)",
+        "objcode": "gitr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.643812,
+          55.819545
+        ]
+      },
+      "properties": {
+        "objttl": "Высшая школа психологии (Институт) ГАУГН",
+        "objcode": "vshp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.677068,
+          55.880672
+        ]
+      },
+      "properties": {
+        "objttl": "Московский пограничный институт Федеральной службы безопасности РФ",
+        "objcode": "fsb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.593453,
+          55.780927
+        ]
+      },
+      "properties": {
+        "objttl": "Институт психотерапии и клинической психологии",
+        "objcode": "psyinst"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.617033,
+          55.816799
+        ]
+      },
+      "properties": {
+        "objttl": "Московская международная академия",
+        "objcode": "mmamos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.208884,
+          55.982205
+        ]
+      },
+      "properties": {
+        "objttl": "Национальный исследовательский университет «МИЭТ»",
+        "objcode": "miee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.707063,
+          55.741313
+        ]
+      },
+      "properties": {
+        "objttl": "Евразийский открытый институт",
+        "objcode": "eoi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.514554,
+          55.8501
+        ]
+      },
+      "properties": {
+        "objttl": "Институт туризма и гостеприимства (г. Москва) (филиал) Российского государственного университета туризма и сервиса",
+        "objcode": "itig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.509739,
+          55.811221
+        ]
+      },
+      "properties": {
+        "objttl": "Московский открытый институт",
+        "objcode": "openti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.649831,
+          55.825335
+        ]
+      },
+      "properties": {
+        "objttl": "Академия Государственной противопожарной службы МЧС РФ",
+        "objcode": "academygps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.601798,
+          55.754345
+        ]
+      },
+      "properties": {
+        "objttl": "Институт журналистики и литературного творчества",
+        "objcode": "iglt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.693489,
+          55.802447
+        ]
+      },
+      "properties": {
+        "objttl": "МЭГИ Махон Хамеш",
+        "objcode": "chamesh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.604744,
+          55.662506
+        ]
+      },
+      "properties": {
+        "objttl": "Российская правовая академия Министерства юстиции РФ",
+        "objcode": "rpa-mu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.577364,
+          55.777753
+        ]
+      },
+      "properties": {
+        "objttl": "Пограничная академия Федеральной службы безопасности Российской Федерации",
+        "objcode": "bgafss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.608005,
+          55.783104
+        ]
+      },
+      "properties": {
+        "objttl": "Московский православный институт святого Иоанна Богослова",
+        "objcode": "rpi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.470033,
+          55.683336
+        ]
+      },
+      "properties": {
+        "objttl": "Академия Федеральной службы безопасности РФ",
+        "objcode": "fssr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.478684,
+          55.667345
+        ]
+      },
+      "properties": {
+        "objttl": "Высшая Школа Финансов и Менеджмента РАНХиГС при Президенте РФ",
+        "objcode": "shfm-rane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.612425,
+          55.75974
+        ]
+      },
+      "properties": {
+        "objttl": "Школа-студия МХАТ",
+        "objcode": "mhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.540892,
+          55.805776
+        ]
+      },
+      "properties": {
+        "objttl": "МОСКОВСКАЯ АКАДЕМИЯ ПРЕДПРИНИМАТЕЛЬСТВА",
+        "objcode": "mosap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.637731,
+          55.780588
+        ]
+      },
+      "properties": {
+        "objttl": "Высшая школа брендинга",
+        "objcode": "hsbranding"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.625478,
+          55.702353
+        ]
+      },
+      "properties": {
+        "objttl": "Московская государственная академия водного транспорта - филиал ФГБОУ ВО «ГУМРФ имени адмирала С.О. Макарова»",
+        "objcode": "goumgavt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.603478,
+          55.754725
+        ]
+      },
+      "properties": {
+        "objttl": "Российский университет театрального искусства - ГИТИС",
+        "objcode": "gitis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.619486,
+          55.815782
+        ]
+      },
+      "properties": {
+        "objttl": "Высшая школа кино и телевидения `Останкино` (МИТРО)",
+        "objcode": "mitro-tv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.690866,
+          55.814978
+        ]
+      },
+      "properties": {
+        "objttl": "Московский медицинский университет РЕАВИЗ",
+        "objcode": "mosreaviz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.790309,
+          55.760636
+        ]
+      },
+      "properties": {
+        "objttl": "Институт театрального искусства им. П.М. Ершова",
+        "objcode": "artershov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.785135,
+          55.794776
+        ]
+      },
+      "properties": {
+        "objttl": "Московский институт энергобезопасности и энергосбережения",
+        "objcode": "mieen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.506999,
+          55.643917
+        ]
+      },
+      "properties": {
+        "objttl": "Московский университет Министерства внутренних дел Российской Федерации В.Я. Кикотя",
+        "objcode": "mosu-mvd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.441862,
+          55.717168
+        ]
+      },
+      "properties": {
+        "objttl": "Институт современного искусства",
+        "objcode": "isi-vuz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.63959,
+          55.757561
+        ]
+      },
+      "properties": {
+        "objttl": "Свято-Филаретовский православно-христианский институт",
+        "objcode": "sfi-a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.636096,
+          55.750302
+        ]
+      },
+      "properties": {
+        "objttl": "Военная академия Ракетных войск стратегического назначения имени Петра Великого Министерства обороны Российской Федерации",
+        "objcode": "arvsn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.478684,
+          55.667345
+        ]
+      },
+      "properties": {
+        "objttl": "Институт бизнеса и делового администрирования Российская академия народного хозяйства и государственной службы при Президенте РФ",
+        "objcode": "ibda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.629089,
+          55.804799
+        ]
+      },
+      "properties": {
+        "objttl": "Международный славянский институт",
+        "objcode": "slavinst"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.647028,
+          55.819449
+        ]
+      },
+      "properties": {
+        "objttl": "Институт Практической Психологии и Психоанализа",
+        "objcode": "psychol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.561158,
+          55.802396
+        ]
+      },
+      "properties": {
+        "objttl": "Институт психологии, социологии и социальных отношений(ГАОУ ВО `Московский городской педагогический университет`)",
+        "objcode": "ipsso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.580661,
+          55.721463
+        ]
+      },
+      "properties": {
+        "objttl": "Московская государственная академия хореографии",
+        "objcode": "balletacademy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.793588,
+          55.698153
+        ]
+      },
+      "properties": {
+        "objttl": "Московская государственная академия ветеринарной медицины и биотехнологии имени К.И. Скрябина",
+        "objcode": "mgavm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.617033,
+          55.816799
+        ]
+      },
+      "properties": {
+        "objttl": "Центр повышения квалификации преподавателей иностранных языков ММА",
+        "objcode": "inyaz-mil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.635745,
+          55.764156
+        ]
+      },
+      "properties": {
+        "objttl": "Российская академия живописи, ваяния и зодчества Ильи Глазунова",
+        "objcode": "glazunov-academy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.555247,
+          55.692044
+        ]
+      },
+      "properties": {
+        "objttl": "Российский государственный университет нефти и газа имени И.М. Губкина",
+        "objcode": "gubkin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.564087,
+          55.692206
+        ]
+      },
+      "properties": {
+        "objttl": "Институт экономики и антикризисного управления",
+        "objcode": "ieay-a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.604331,
+          55.756072
+        ]
+      },
+      "properties": {
+        "objttl": "Московская государственная консерватория имени П.И. Чайковского",
+        "objcode": "mosconsv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.606281,
+          55.822878
+        ]
+      },
+      "properties": {
+        "objttl": "Останкинский институт телевидения и радиовещания",
+        "objcode": "oitir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.637596,
+          55.745605
+        ]
+      },
+      "properties": {
+        "objttl": "РГУ им. А.Н.Косыгина (Технологии. Дизайн. Искусство)",
+        "objcode": "mgudt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.484667,
+          55.672829
+        ]
+      },
+      "properties": {
+        "objttl": "Московский государственный институт международных отношений (университет) МИД РФ",
+        "objcode": "mgimo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.683464,
+          55.771692
+        ]
+      },
+      "properties": {
+        "objttl": "Московский институт иностранных языков",
+        "objcode": "gaudeamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.518129,
+          55.653456
+        ]
+      },
+      "properties": {
+        "objttl": "Государственный институт русского языка им. А.С. Пушкина",
+        "objcode": "pushkin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.528998,
+          55.800281
+        ]
+      },
+      "properties": {
+        "objttl": "Финансовый университет при Правительстве РФ",
+        "objcode": "ufrf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.617033,
+          55.816799
+        ]
+      },
+      "properties": {
+        "objttl": "Московский финансово-экономический институт",
+        "objcode": "mfei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.692339,
+          55.722842
+        ]
+      },
+      "properties": {
+        "objttl": "Московский информационно-технологический университет – Московский архитектурно-строительный институт",
+        "objcode": "mitu-masi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.639788,
+          55.726244
+        ]
+      },
+      "properties": {
+        "objttl": "Национальный институт дизайна",
+        "objcode": "nounid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.478603,
+          55.665137
+        ]
+      },
+      "properties": {
+        "objttl": "Российская академия народного хозяйства и государственной службы при Президенте РФ",
+        "objcode": "ane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.612919,
+          55.761452
+        ]
+      },
+      "properties": {
+        "objttl": "Институт менеджмента, экономики и инноваций",
+        "objcode": "anoimei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.611643,
+          55.707547
+        ]
+      },
+      "properties": {
+        "objttl": "Московский психолого-социальный университет",
+        "objcode": "mpsi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.57077,
+          55.781798
+        ]
+      },
+      "properties": {
+        "objttl": "МЕЖДУНАРОДНЫЙ УНИВЕРСИТЕТ В МОСКВЕ",
+        "objcode": "interun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.633194,
+          55.770785
+        ]
+      },
+      "properties": {
+        "objttl": "Московский городской университет управления Правительства Москвы",
+        "objcode": "migm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.456666,
+          55.730801
+        ]
+      },
+      "properties": {
+        "objttl": "Институт международной торговли и права",
+        "objcode": "imtp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.566764,
+          55.684874
+        ]
+      },
+      "properties": {
+        "objttl": "Московский технологический институт",
+        "objcode": "mti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.632925,
+          55.736159
+        ]
+      },
+      "properties": {
+        "objttl": "Православный Свято-Тихоновский гуманитарный университет",
+        "objcode": "pstbi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.486643,
+          55.675758
+        ]
+      },
+      "properties": {
+        "objttl": "Академия труда и социальных отношений",
+        "objcode": "atiso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.674085,
+          55.743066
+        ]
+      },
+      "properties": {
+        "objttl": "Российская академия предпринимательства",
+        "objcode": "rusacad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.736554,
+          55.702815
+        ]
+      },
+      "properties": {
+        "objttl": "Московский экономический институт",
+        "objcode": "noumei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.693399,
+          55.778522
+        ]
+      },
+      "properties": {
+        "objttl": "Московский социально-педагогический институт",
+        "objcode": "mospi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.665956,
+          55.734395
+        ]
+      },
+      "properties": {
+        "objttl": "Государственный музыкально-педагогический институт имени М.М. Ипполитова-Иванова (Ипполитовка)",
+        "objcode": "ippolitovka-gino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.532978,
+          55.642184
+        ]
+      },
+      "properties": {
+        "objttl": "Российская государственная академия интеллектуальной собственности",
+        "objcode": "rgiis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.73898,
+          55.781772
+        ]
+      },
+      "properties": {
+        "objttl": "Национальный Институт имени Екатерины Великой",
+        "objcode": "niev"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.699867,
+          55.776694
+        ]
+      },
+      "properties": {
+        "objttl": "Международный институт экономики и права (г. Москва)",
+        "objcode": "miepvuz-d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.48614,
+          55.793693
+        ]
+      },
+      "properties": {
+        "objttl": "Московский государственный институт музыки имени А.Г. Шнитке",
+        "objcode": "schnittke-mgim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.631344,
+          55.740456
+        ]
+      },
+      "properties": {
+        "objttl": "Московский институт экономики, политики и права",
+        "objcode": "miepl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.509101,
+          55.851485
+        ]
+      },
+      "properties": {
+        "objttl": "Московский государственный институт индустрии туризма имени Ю.А. Сенкевича",
+        "objcode": "mgiit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.62378,
+          55.763569
+        ]
+      },
+      "properties": {
+        "objttl": "Институт стран Востока",
+        "objcode": "orun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.599202,
+          55.825178
+        ]
+      },
+      "properties": {
+        "objttl": "Международный юридический институт",
+        "objcode": "lawinst"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.620097,
+          55.798207
+        ]
+      },
+      "properties": {
+        "objttl": "Международная академия бизнеса и управления",
+        "objcode": "mabiu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.562021,
+          55.663365
+        ]
+      },
+      "properties": {
+        "objttl": "Российский государственный университет правосудия",
+        "objcode": "raj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.760072,
+          55.801081
+        ]
+      },
+      "properties": {
+        "objttl": "Российский государственный университет физической культуры, спорта, молодежи и туризма (ГЦОЛИФК)",
+        "objcode": "sportedu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.681505,
+          55.762551
+        ]
+      },
+      "properties": {
+        "objttl": "Институт социальных наук",
+        "objcode": "socius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.654933,
+          55.700278
+        ]
+      },
+      "properties": {
+        "objttl": "Московский университет имени С.Ю. Витте",
+        "objcode": "miemp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.506424,
+          55.84302
+        ]
+      },
+      "properties": {
+        "objttl": "Московский государственный технический университет гражданской авиации",
+        "objcode": "mstuca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.622297,
+          55.694875
+        ]
+      },
+      "properties": {
+        "objttl": "Московская академия экономики и права",
+        "objcode": "mael"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.816217,
+          55.790383
+        ]
+      },
+      "properties": {
+        "objttl": "Московский институт юриспруденции",
+        "objcode": "miyu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.549956,
+          55.832995
+        ]
+      },
+      "properties": {
+        "objttl": "Российский государственный аграрный университет - МСХА имени К.А. Тимирязева",
+        "objcode": "timacad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.630697,
+          55.77191
+        ]
+      },
+      "properties": {
+        "objttl": "Московский государственный психолого-педагогический университет",
+        "objcode": "mgppu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.712273,
+          55.755196
+        ]
+      },
+      "properties": {
+        "objttl": "Московский технический университет связи и информатики",
+        "objcode": "mtuci"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.634631,
+          55.652903
+        ]
+      },
+      "properties": {
+        "objttl": "Московская гуманитарно-техническая академия (НОУ ВПО «МГТА»)",
+        "objcode": "mgta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.48358,
+          55.856401
+        ]
+      },
+      "properties": {
+        "objttl": "Академия хорового искусства имени В.С. Попова",
+        "objcode": "axu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.478684,
+          55.667345
+        ]
+      },
+      "properties": {
+        "objttl": "Институт `Московская высшая школа социальных и экономических наук`",
+        "objcode": "msses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.747307,
+          55.696088
+        ]
+      },
+      "properties": {
+        "objttl": "Московский институт современного академического образования",
+        "objcode": "mosinst"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.638081,
+          55.780557
+        ]
+      },
+      "properties": {
+        "objttl": "Институт бизнеса и дизайна",
+        "objcode": "obe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.725882,
+          55.75476
+        ]
+      },
+      "properties": {
+        "objttl": "Институт международного права и экономики имени А.С. Грибоедова",
+        "objcode": "iile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.621776,
+          55.760358
+        ]
+      },
+      "properties": {
+        "objttl": "Высшее театральное училище (институт) им. М.С. Щепкина при Государственном академическом Малом театре России",
+        "objcode": "schepkin-maly"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.602014,
+          55.762358
+        ]
+      },
+      "properties": {
+        "objttl": "Литературный институт имени А.М. Горького",
+        "objcode": "litinstitut"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.496632,
+          55.806186
+        ]
+      },
+      "properties": {
+        "objttl": "Московский государственный университет пищевых производств",
+        "objcode": "mgupp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.528963,
+          55.740517
+        ]
+      },
+      "properties": {
+        "objttl": "Московский Институт Психоанализа",
+        "objcode": "inpsycho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.615749,
+          55.776219
+        ]
+      },
+      "properties": {
+        "objttl": "Московский государственный медико-стоматологический университет имени А.И. Евдокимова",
+        "objcode": "msmsu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.550217,
+          55.741085
+        ]
+      },
+      "properties": {
+        "objttl": "Российская государственная специализированная академия искусств",
+        "objcode": "gsii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.564087,
+          55.692206
+        ]
+      },
+      "properties": {
+        "objttl": "Институт экономики и антикризисного управления",
+        "objcode": "ieay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.51079,
+          55.712061
+        ]
+      },
+      "properties": {
+        "objttl": "Институт международных экономических связей",
+        "objcode": "imes-iier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.623241,
+          55.763483
+        ]
+      },
+      "properties": {
+        "objttl": "Московский архитектурный институт (государственная академия)",
+        "objcode": "marhi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.663961,
+          55.735778
+        ]
+      },
+      "properties": {
+        "objttl": "Московская международная высшая школа бизнеса `МИРБИС` (Институт)",
+        "objcode": "mirbis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.806596,
+          55.700902
+        ]
+      },
+      "properties": {
+        "objttl": "Московский социально-экономический институт",
+        "objcode": "msei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.693992,
+          55.858887
+        ]
+      },
+      "properties": {
+        "objttl": "Московский государственный строительный университет",
+        "objcode": "mgsu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.812885,
+          55.727964
+        ]
+      },
+      "properties": {
+        "objttl": "Национальный институт бизнеса",
+        "objcode": "nib-moscow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.800182,
+          55.799522
+        ]
+      },
+      "properties": {
+        "objttl": "Институт гуманитарного образования и информационных технологий",
+        "objcode": "igumo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.544369,
+          55.549725
+        ]
+      },
+      "properties": {
+        "objttl": "Гуманитарный институт имени П.А. Столыпина",
+        "objcode": "rgis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.655984,
+          55.74597
+        ]
+      },
+      "properties": {
+        "objttl": "Московский государственный университет технологий и управления имени К.Г. Разумовского (Первый казачий университет)",
+        "objcode": "mgutm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.714024,
+          55.733148
+        ]
+      },
+      "properties": {
+        "objttl": "Славяно-Греко-Латинская Академия",
+        "objcode": "sgla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.726089,
+          55.827505
+        ]
+      },
+      "properties": {
+        "objttl": "Московский государственный гуманитарно-экономический университет",
+        "objcode": "mgsgi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.481289,
+          55.670498
+        ]
+      },
+      "properties": {
+        "objttl": "МИРЭА - Российский технологический университет",
+        "objcode": "mirea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.609038,
+          55.73256
+        ]
+      },
+      "properties": {
+        "objttl": "Государственный академический университет гуманитарных наук",
+        "objcode": "gugn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.591782,
+          55.755566
+        ]
+      },
+      "properties": {
+        "objttl": "Российская академия музыки имени Гнесиных",
+        "objcode": "gnesin-akademi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.49144,
+          55.649048
+        ]
+      },
+      "properties": {
+        "objttl": "Российский национальный исследовательский медицинский университет имени Н.И. Пирогова",
+        "objcode": "rsmu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.663782,
+          55.762819
+        ]
+      },
+      "properties": {
+        "objttl": "Государственный университет по землеустройству",
+        "objcode": "guz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.675505,
+          55.763088
+        ]
+      },
+      "properties": {
+        "objttl": "Московский государственный областной университет",
+        "objcode": "mgou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.593983,
+          55.738759
+        ]
+      },
+      "properties": {
+        "objttl": "Московский государственный лингвистический университет",
+        "objcode": "linguanet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.498537,
+          55.80785
+        ]
+      },
+      "properties": {
+        "objttl": "Московская государственная художественно-промышленная академия им. С.Г. Строганова",
+        "objcode": "mghpu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.509748,
+          55.811219
+        ]
+      },
+      "properties": {
+        "objttl": "Университет СИНЕРГИЯ",
+        "objcode": "mfpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.529151,
+          55.802341
+        ]
+      },
+      "properties": {
+        "objttl": "Московский автомобильно-дорожный государственный технический университет (МАДИ)",
+        "objcode": "madi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.602867,
+          55.726472
+        ]
+      },
+      "properties": {
+        "objttl": "Московский гуманитарно-экономический университет",
+        "objcode": "mgei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.682458,
+          55.762581
+        ]
+      },
+      "properties": {
+        "objttl": "Российский новый университет",
+        "objcode": "rosnou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.592941,
+          55.683889
+        ]
+      },
+      "properties": {
+        "objttl": "Московский финансово-юридический университет МФЮА",
+        "objcode": "mfua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.813423,
+          55.730416
+        ]
+      },
+      "properties": {
+        "objttl": "АНО ВО Московский гуманитарный университет (МосГУ)",
+        "objcode": "mosgu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.586024,
+          55.762095
+        ]
+      },
+      "properties": {
+        "objttl": "Московский государственный юридический университет имени О.Е. Кутафина (МГЮА)",
+        "objcode": "msal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.708617,
+          55.753656
+        ]
+      },
+      "properties": {
+        "objttl": "Национальный исследовательский университет `МЭИ`",
+        "objcode": "mpei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.574875,
+          55.727668
+        ]
+      },
+      "properties": {
+        "objttl": "Первый Московский государственный медицинский университет имени И.М. Сеченова",
+        "objcode": "mma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.595177,
+          55.778461
+        ]
+      },
+      "properties": {
+        "objttl": "Российский химико-технологический университет имени Д.И. Менделеева",
+        "objcode": "muctr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.595878,
+          55.790094
+        ]
+      },
+      "properties": {
+        "objttl": "Московский государственный технологический университет `СТАНКИН`",
+        "objcode": "stankin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.66733,
+          55.743608
+        ]
+      },
+      "properties": {
+        "objttl": "Московский государственный академический художественный институт имени В.И. Сурикова",
+        "objcode": "surikov-vuz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.499354,
+          55.651978
+        ]
+      },
+      "properties": {
+        "objttl": "Российский университет дружбы народов",
+        "objcode": "rudn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.662003,
+          55.763417
+        ]
+      },
+      "properties": {
+        "objttl": "Московский государственный университет геодезии и картографии",
+        "objcode": "miigaik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.664384,
+          55.649865
+        ]
+      },
+      "properties": {
+        "objttl": "Национальный исследовательский ядерный университет `МИФИ`",
+        "objcode": "mephi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.627696,
+          55.727268
+        ]
+      },
+      "properties": {
+        "objttl": "Российский экономический университет имени Г.В. Плеханова",
+        "objcode": "rea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.655113,
+          55.859079
+        ]
+      },
+      "properties": {
+        "objttl": "Академия социального управления",
+        "objcode": "asou-mo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.51865,
+          55.929545
+        ]
+      },
+      "properties": {
+        "objttl": "Московский физико-технический институт (государственный университет)",
+        "objcode": "mipt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.608041,
+          55.787832
+        ]
+      },
+      "properties": {
+        "objttl": "Российский университет транспорта (МИИТ)",
+        "objcode": "miit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.567617,
+          55.674813
+        ]
+      },
+      "properties": {
+        "objttl": "Российская экономическая школа (институт)",
+        "objcode": "nes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.533059,
+          55.727349
+        ]
+      },
+      "properties": {
+        "objttl": "Всероссийская академия внешней торговли Министерства экономического развития Российской Федерации",
+        "objcode": "vavt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.635386,
+          55.83476
+        ]
+      },
+      "properties": {
+        "objttl": "Российский государственный социальный университет",
+        "objcode": "rgsu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.461679,
+          55.818392
+        ]
+      },
+      "properties": {
+        "objttl": "Московский авиационный институт (национальный исследовательский университет)",
+        "objcode": "mai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.596246,
+          55.77797
+        ]
+      },
+      "properties": {
+        "objttl": "Российский государственный гуманитарный университет",
+        "objcode": "rggu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.642186,
+          55.833648
+        ]
+      },
+      "properties": {
+        "objttl": "Московский городской педагогический университет",
+        "objcode": "mgpu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.685251,
+          55.766304
+        ]
+      },
+      "properties": {
+        "objttl": "Московский государственный технический университет имени Н.Э. Баумана",
+        "objcode": "bmstu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.576331,
+          55.732342
+        ]
+      },
+      "properties": {
+        "objttl": "Московский педагогический государственный университет",
+        "objcode": "mpgu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.817708,
+          55.71408
+        ]
+      },
+      "properties": {
+        "objttl": "Государственный университет управления",
+        "objcode": "guu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.632969,
+          55.761345
+        ]
+      },
+      "properties": {
+        "objttl": "Национальный исследовательский университет «Высшая школа экономики»",
+        "objcode": "hse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.530238,
+          55.702769
+        ]
+      },
+      "properties": {
+        "objttl": "Московский государственный университет имени М.В. Ломоносова",
+        "objcode": "msu"
+      }
+    }
+  ]
+}
